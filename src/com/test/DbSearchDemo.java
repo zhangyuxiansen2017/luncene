@@ -35,7 +35,7 @@ import com.test.util.JdbcUtil;
  */
 public class DbSearchDemo {
     public static final String INDEX_PATH = "F:\\luncene\\lucene-db";
-    public static final String JDBC_URL = "jdbc:mysql://192.168.1.33:3306/lucene-demo?useUnicode=true&characterEncoding=utf-8";
+    public static final String JDBC_URL = "jdbc:mysql://localhost:3306/lucene-demo?useUnicode=true&characterEncoding=utf-8";
     public static final String USER = "root";
     public static final String PWD = "123456";
 
